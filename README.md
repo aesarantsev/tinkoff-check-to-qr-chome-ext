@@ -1,4 +1,4 @@
-# <img src="public/screen.png" width="150" align="left">
+![](public/screen.png)
 
 # Tinkoff check to QR Chrome extention
 
