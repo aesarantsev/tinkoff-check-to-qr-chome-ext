@@ -1,6 +1,5 @@
-![](public/screen.png)
-
 # Tinkoff check to QR Chrome extention
+![](public/screen.png)
 
 ## Описание
 
